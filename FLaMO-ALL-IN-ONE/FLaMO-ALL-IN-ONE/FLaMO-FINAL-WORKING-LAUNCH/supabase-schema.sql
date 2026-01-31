@@ -1,1 +1,0 @@
--- Real Supabase SQL schema goes here
